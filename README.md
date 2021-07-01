@@ -29,5 +29,5 @@ python ./main.py
 ```
 
 ## How to use?
-Go here and generate OAuth token and enter it in config.json
+Go [here](https://developer.spotify.com/console/get-users-currently-playing-track/) and generate OAuth token and enter it in config.json
 https://developer.spotify.com/console/get-users-currently-playing-track/
