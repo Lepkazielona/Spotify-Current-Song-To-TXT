@@ -15,7 +15,7 @@ pip install requests
 
 ## Running
 
-Download and extract to folder
+Download and extract to folder, and next:
 ### Linux
 ```
 python ./main.py
