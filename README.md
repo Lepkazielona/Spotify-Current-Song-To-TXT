@@ -35,7 +35,7 @@ Go [here](https://developer.spotify.com/console/get-users-currently-playing-trac
 Make whatever u want with this, i don't care
 
 ## About
-this code is unoptimalized and very trashy, maybe i fix it later. If you have any problems with tshis, text me on discord **Lepkazielona#9300 
+this code is unoptimalized and very trashy, maybe i fix it later. If you have any problems with tshis, text me on discord **Lepkazielona#9300** 
 
 Special thanks to [@imdadahad](https://github.com/imdadahad/) for half of this code (https://github.com/imdadahad/spotify-get-current-playing-track), i learn a lot of things making this project.
 Enjoy!
