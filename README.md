@@ -5,7 +5,8 @@ A simple python script to get the current playing song on Spotify
 ## Installing and running
 
 *Python 3*
-[python](https://www.python.org/downloads/)
+
+https://www.python.org/downloads/
 
 *requests*
 ```
