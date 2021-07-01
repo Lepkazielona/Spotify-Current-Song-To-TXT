@@ -13,6 +13,9 @@ Requests
 pip install requests
 ```
 
+## License
+Make whatever u want with this, i don't care
+
 ## Running
 
 Download and extract to folder, and next:
@@ -29,10 +32,7 @@ python ./main.py
 ```
 
 ## How to use?
-Go [here](https://developer.spotify.com/console/get-users-currently-playing-track/) and generate OAuth token and enter it in config.json, Play some music and run a code.
-
-## License
-Make whatever u want with this, i don't care
+Go [here](https://developer.spotify.com/console/get-users-currently-playing-track/) and generate OAuth token, next put it in config.json, Play some music and run a code.
 
 ## About
 this code is unoptimalized and very trashy, maybe i fix it later. If you have any problems with tshis, text me on discord **Lepkazielona#9300** 
