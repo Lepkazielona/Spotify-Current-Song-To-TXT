@@ -12,3 +12,18 @@ https://www.python.org/downloads/
 ```
 pip install requests
 ```
+
+## Running
+
+Download and extract to folder
+### Linux
+```
+python ./main.py
+```
+### Windows
+Right click and run as python app
+
+### Mac os
+```
+python ./main.py
+```
