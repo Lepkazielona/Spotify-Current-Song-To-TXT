@@ -29,8 +29,10 @@ python ./main.py
 ```
 
 ## How to use?
-Go [here](https://developer.spotify.com/console/get-users-currently-playing-track/) and generate OAuth token and enter it in config.json, Play some music and run a code, Enjoy!
+Go [here](https://developer.spotify.com/console/get-users-currently-playing-track/) and generate OAuth token and enter it in config.json, Play some music and run a code.
 
 ## About
 this code is unoptimalized and very trashy, maybe i fix it later
-Special thanks to @imdadahad
+
+Special thanks to @imdadahad for half of this code (https://github.com/imdadahad/spotify-get-current-playing-track), i learn a lot of things making this.
+Enjoy!
