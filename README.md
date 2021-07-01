@@ -8,7 +8,7 @@ Python 3
 
 https://www.python.org/downloads/
 
-requests
+Requests
 ```
 pip install requests
 ```
