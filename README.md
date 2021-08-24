@@ -17,14 +17,6 @@ pip install requests
 ## Running
 
 Download and extract to folder, and next:
-### Linux
-```
-python ./main.py
-```
-### Windows
-Right click and run as python app
-
-### Mac os
 ```
 python ./main.py
 ```
