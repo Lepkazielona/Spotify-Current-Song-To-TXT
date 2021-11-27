@@ -1,24 +1,13 @@
-import json
 import requests
-import time
-
 from pprint import pprint
 
-with open("config.json") as jsonFile:
-    jsonObject = json.load(jsonFile)
+apiUrl = 'https://api.spotify.com/v1/me/player/currently-playing'
 
-TOKEN = jsonObject["ID"] 
-
-SPOTIFY_GET_CURRENT_TRACK_URL = 'https://api.spotify.com/v1/me/player/currently-playing'
-ACCESS_TOKEN = TOKEN
-
-
-
+#open spotify url and do all weird complicated api shit
 def get_current_track(access_token):
     response = requests.get(
-        SPOTIFY_GET_CURRENT_TRACK_URL,
-        headers={
-            "Authorization": f"Bearer {access_token}"
+        apiUrl, headers={
+            "Authorization": "Bearer {access_token}"
         }
     )
     json_resp = response.json()

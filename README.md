@@ -26,7 +26,7 @@ Go [here](https://developer.spotify.com/console/get-users-currently-playing-trac
 
 
 ## License
-Make whatever u want with this, i don't care
+Make whatever you want with this, i don't care
 
 ## About
 this code is unoptimalized and very trashy, maybe i fix it later. If you have any problems with this, text me on discord **Lepka#9300** 
