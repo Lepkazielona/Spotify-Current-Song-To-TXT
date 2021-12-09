@@ -1,3 +1,8 @@
+# DISCLAIMER
+##This code is total trash
+
+
+
 # Spotify-Current-Song-To-TXT 
 
 A simple python script to get the current playing song on Spotify
