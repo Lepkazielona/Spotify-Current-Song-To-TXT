@@ -5,6 +5,13 @@
 
 # Spotify-Current-Song-To-TXT 
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/Lepkazielona/Spotify-Current-Song-To-TXT/main/media/spotify_logo.png">
+</p>
+
+<br>
+
+
 A simple python script to get the current playing song on Spotify
 
 ## Installing and running
